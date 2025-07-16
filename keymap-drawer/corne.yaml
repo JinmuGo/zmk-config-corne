@@ -63,8 +63,8 @@ layers:
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - HOME
   - PG UP
