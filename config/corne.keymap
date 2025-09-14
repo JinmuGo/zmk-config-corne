@@ -43,6 +43,11 @@
             key-positions = <19 20>;
             layers = <0>;
         };
+
+        hangul {
+            bindings = <&kp LANG_HANGEUL>;
+            key-positions = <12 38>;
+        };
     };
 
     keymap {
