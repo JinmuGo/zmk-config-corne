@@ -219,3 +219,5 @@ combos:
 - p: [19, 20]
   k: $$mdi:keyboard-esc$$
   l: [QWERTY]
+- p: [12, 38]
+  k: LANG HANGEUL
