@@ -53,6 +53,11 @@
             bindings = <&mo 5>;
             key-positions = <37 40>;
         };
+
+        newhangeul {
+            bindings = <&kp LANG_HANGEUL>;
+            key-positions = <36 14 15>;
+        };
     };
 
     keymap {
