@@ -553,6 +553,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-3">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 330)" class="layer-NUMBER">
@@ -818,6 +826,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-2">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 661)" class="layer-SYMBOL">
@@ -1053,6 +1069,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-2">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 991)" class="layer-Fn">
@@ -1288,6 +1312,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-2">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1321)" class="layer-mouse">
@@ -1521,6 +1553,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-2">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1651)" class="layer-5">
@@ -1749,6 +1789,14 @@ rect.held, rect.combo.held {
 <a href="#x_x">
 <text x="420" y="212" class="combo tap layer-activator">5</text>
 </a></g>
+<g class="combo combopos-2">
+<path d="M186,126 l29,61" class="combo"/>
+<path d="M186,126 l-31,-24" class="combo"/>
+<rect rx="6" ry="6" x="172" y="113" width="28" height="26" class="combo"/>
+<text x="186" y="126" class="combo tap">
+<tspan x="186" dy="-0.6em" style="font-size: 86%">LANG</tspan><tspan x="186" dy="1.2em" style="font-size: 86%">HANGEUL</tspan>
+</text>
+</g>
 </g>
 </g>
 </svg>
