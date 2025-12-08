@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - '&esc_dance'
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
