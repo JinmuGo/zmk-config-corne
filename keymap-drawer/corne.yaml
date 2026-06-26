@@ -266,3 +266,5 @@ combos:
   k: LANG HANGEUL
 - p: [37, 40]
   k: '5'
+- p: [38, 39]
+  k: LANG HANGEUL
