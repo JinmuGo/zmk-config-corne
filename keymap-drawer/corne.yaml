@@ -262,9 +262,7 @@ combos:
 - p: [19, 20]
   k: $$mdi:keyboard-esc$$
   l: [QWERTY]
-- p: [12, 38]
-  k: LANG HANGEUL
 - p: [37, 40]
   k: '5'
 - p: [38, 39]
-  k: LANG HANGEUL
+  k: Ctl+$$mdi:keyboard-space$$
