@@ -42,7 +42,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: mouse}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - NUMBER
-  - {t: LANG HANGEUL, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: 'Ctl+$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-option$$'}
   NUMBER:
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
