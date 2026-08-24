@@ -42,7 +42,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: mouse}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - NUMBER
-  - $$mdi:apple-keyboard-option$$
+  - {t: 'Ctl+$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-option$$'}
   NUMBER:
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
@@ -266,3 +266,4 @@ combos:
   k: '5'
 - p: [38, 39]
   k: Ctl+$$mdi:keyboard-space$$
+  l: [QWERTY]
