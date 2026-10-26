@@ -42,7 +42,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: mouse}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
   - NUMBER
-  - {t: 'Ctl+$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-option$$'}
+  - {t: Ctl+Alt+=, h: '$$mdi:apple-keyboard-option$$', s: Ctl+Alt++}
   NUMBER:
   - {t: '`', s: '~'}
   - {t: '1', s: '!'}
@@ -168,7 +168,7 @@ layers:
   - PAUSE BREAK
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - Ctl+$$mdi:keyboard-space$$
+  - {t: Ctl+Alt+=, s: Ctl+Alt++}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -212,7 +212,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - Ctl+$$mdi:keyboard-space$$
+  - {t: Ctl+Alt+=, s: Ctl+Alt++}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   '5':
@@ -265,5 +265,5 @@ combos:
 - p: [37, 40]
   k: '5'
 - p: [38, 39]
-  k: Ctl+$$mdi:keyboard-space$$
+  k: Ctl+Alt+=
   l: [QWERTY]
